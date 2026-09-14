@@ -1,0 +1,86 @@
+﻿[
+    {
+        "FileName":  "cave_dweller-1.20.1-1.6.4.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/cave_dweller-1.20.1-1.6.4.jar",
+        "Sha256":  "2c243cad05887b40841401abdbb6256473ef4a05be65fc076d68dba34a90d8c1",
+        "Size":  637026
+    },
+    {
+        "FileName":  "EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar",
+        "Sha256":  "432a9e565e94ff3e1ecbd1ea00b387eac1d49c06dd61646a92e5fce65fdc5c23",
+        "Size":  4728528
+    },
+    {
+        "FileName":  "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
+        "Sha256":  "385bddf654c6edefd35cd7f47ce7dffff0610d29ed9efd49927f488dec919fb1",
+        "Size":  4749752
+    },
+    {
+        "FileName":  "hardcore_true_darkness-6.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/hardcore_true_darkness-6.jar",
+        "Sha256":  "57ca0a5d4d333d999ed0cd43202f042b077cb0055f78e2d08ab2a4f509debb38",
+        "Size":  55910
+    },
+    {
+        "FileName":  "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+        "Sha256":  "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb",
+        "Size":  5298162
+    },
+    {
+        "FileName":  "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+        "Sha256":  "447dd543e178a9454ccf3bf0d9d7bd7957b1af6da9d74f2cd3d9b5fbe8548e98",
+        "Size":  7080698
+    },
+    {
+        "FileName":  "sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
+        "Sha256":  "6ab4a0cb739a6c11442a73d1b5f42c40c2ae93b31162fa63d81e1b66706e9e31",
+        "Size":  1223451
+    },
+    {
+        "FileName":  "sophisticatedcore-1.20.1-1.5.1.2335.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/sophisticatedcore-1.20.1-1.5.1.2335.jar",
+        "Sha256":  "f4038a2e0d0e3504258fbe315cb27a37f1a769d71985bfa20afb983a3bdfab64",
+        "Size":  1734797
+    },
+    {
+        "FileName":  "sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+        "Sha256":  "5919cd2f2d7deea798d22cdf91cdf06bd5d7393a640ca8e6861873fd7ddc37e7",
+        "Size":  203819
+    },
+    {
+        "FileName":  "the_midnight_lurker-face_your_fears-4.0.0-D2_beta-1.20.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/the_midnight_lurker-face_your_fears-4.0.0-D2_beta-1.20.1.jar",
+        "Sha256":  "872560c5c896a6a949983b0604ad3ee2a9430be89b12e6dc8faa626646d2ef90",
+        "Size":  247375572
+    },
+    {
+        "FileName":  "voicechat-forge-1.20.1-2.6.23.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/voicechat-forge-1.20.1-2.6.23.jar",
+        "Sha256":  "0f974b43487188e09dd89ae878ea93b4e62802ad970627cf23e051d97eb2b3b1",
+        "Size":  4926469
+    },
+    {
+        "FileName":  "waystones-forge-1.20.1-14.1.21.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/waystones-forge-1.20.1-14.1.21.jar",
+        "Sha256":  "fd6fe3c645328ea7be5bc6723d02c881e34650e0cbd4527ba59e42fa4cbe3c80",
+        "Size":  536782
+    },
+    {
+        "FileName":  "weather2-1.20.1-2.8.3.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/weather2-1.20.1-2.8.3.jar",
+        "Sha256":  "5eb828f93b2eb370d7f38ad1893739caf7655f32d58dbbdaabae6075ede635db",
+        "Size":  6852245
+    },
+    {
+        "FileName":  "windowjumpscare-1.0.0.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/windowjumpscare-1.0.0.jar",
+        "Sha256":  "32023a8ec652950ca1bdf9d9c175e55ed6d6259b67c5126dff9a49e100505be3",
+        "Size":  12554
+    }
+]
