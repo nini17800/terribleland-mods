@@ -1,9 +1,33 @@
 [
     {
+        "FileName":  "balm-forge-1.20.1-7.3.28-all.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/balm-forge-1.20.1-7.3.28-all.jar",
+        "Sha256":  "c854ae5022c308d18e6560cbb4074316adfde81f72c15b5d7c95460e8ec9af3f",
+        "Size":  593584
+    },
+    {
         "FileName":  "cave_dweller-1.20.1-1.6.4.jar",
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/cave_dweller-1.20.1-1.6.4.jar",
         "Sha256":  "2c243cad05887b40841401abdbb6256473ef4a05be65fc076d68dba34a90d8c1",
         "Size":  637026
+    },
+    {
+        "FileName":  "coroutil-forge-1.20.1-1.3.7.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/coroutil-forge-1.20.1-1.3.7.jar",
+        "Sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
+        "Size":  64187
+    },
+    {
+        "FileName":  "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+        "Sha256":  "3565ddea132785a044ddfca670610a870c976e52d47a957d0a5f1db78563d046",
+        "Size":  1144128
+    },
+    {
+        "FileName":  "dynamiclights-1.20.1.2.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/dynamiclights-1.20.1.2.jar",
+        "Sha256":  "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7",
+        "Size":  49564
     },
     {
         "FileName":  "EnhancedVisuals_FORGE_v1.8.33_mc1.20.1.jar",
@@ -12,16 +36,34 @@
         "Size":  4728528
     },
     {
+        "FileName":  "FallingTree-1.20.1-4.3.4.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/FallingTree-1.20.1-4.3.4.jar",
+        "Sha256":  "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69",
+        "Size":  420181
+    },
+    {
         "FileName":  "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
         "Sha256":  "385bddf654c6edefd35cd7f47ce7dffff0610d29ed9efd49927f488dec919fb1",
         "Size":  4749752
     },
     {
+        "FileName":  "geckolib-forge-1.20.1-4.4.2.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/geckolib-forge-1.20.1-4.4.2.jar",
+        "Sha256":  "6381f64907b9b5584e255ad136a4bfd2d36bafc0c1178901d54cd0e27b51dd53",
+        "Size":  989799
+    },
+    {
         "FileName":  "hardcore_true_darkness-6.jar",
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/hardcore_true_darkness-6.jar",
         "Sha256":  "57ca0a5d4d333d999ed0cd43202f042b077cb0055f78e2d08ab2a4f509debb38",
         "Size":  55910
+    },
+    {
+        "FileName":  "jei-1.20.1-forge-15.20.0.133.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/jei-1.20.1-forge-15.20.0.133.jar",
+        "Sha256":  "4d59c2fd5cea526e5bd1017bb3166d83bb31afba81b3d43cd1f04a0c7df547bb",
+        "Size":  1409767
     },
     {
         "FileName":  "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
@@ -54,6 +96,18 @@
         "Size":  203819
     },
     {
+        "FileName":  "sound_of_fear-0.2.0-forge-1.20.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/sound_of_fear-0.2.0-forge-1.20.1.jar",
+        "Sha256":  "327a0229286d07f7c54d38b3fe3b0c45412637fff27184c7edab02796746b13b",
+        "Size":  1513469
+    },
+    {
+        "FileName":  "tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
+        "Sha256":  "d8b7def0dd37fe30f313038df2b030168f83acf9c651e7608b389c817d3b23d5",
+        "Size":  24673837
+    },
+    {
         "FileName":  "the_midnight_lurker-face_your_fears-4.0.0-D2_beta-1.20.1.jar",
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/the_midnight_lurker-face_your_fears-4.0.0-D2_beta-1.20.1.jar",
         "Sha256":  "872560c5c896a6a949983b0604ad3ee2a9430be89b12e6dc8faa626646d2ef90",
@@ -80,49 +134,7 @@
     {
         "FileName":  "windowjumpscare-1.0.0.jar",
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/windowjumpscare-1.0.0.jar",
-        "Sha256":  "32023a8ec652950ca1bdf9d9c175e55ed6d6259b67c5126dff9a49e100505be3",
-        "Size":  12554
-    },
-    {
-        "FileName":  "balm-forge-1.20.1-7.3.28-all.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/balm-forge-1.20.1-7.3.28-all.jar",
-        "Sha256":  "c854ae5022c308d18e6560cbb4074316adfde81f72c15b5d7c95460e8ec9af3f",
-        "Size":  593584
-    },
-    {
-        "FileName":  "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
-        "Sha256":  "3565ddea132785a044ddfca670610a870c976e52d47a957d0a5f1db78563d046",
-        "Size":  1144128
-    },
-    {
-        "FileName":  "geckolib-forge-1.20.1-4.4.2.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/geckolib-forge-1.20.1-4.4.2.jar",
-        "Sha256":  "6381f64907b9b5584e255ad136a4bfd2d36bafc0c1178901d54cd0e27b51dd53",
-        "Size":  989799
-    },
-    {
-        "FileName":  "coroutil-forge-1.20.1-1.3.7.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/coroutil-forge-1.20.1-1.3.7.jar",
-        "Sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
-        "Size":  64187
-    },
-    {
-        "FileName":  "tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
-        "Sha256":  "d8b7def0dd37fe30f313038df2b030168f83acf9c651e7608b389c817d3b23d5",
-        "Size":  24673837
-    },
-    {
-        "FileName":  "dynamiclights-1.20.1.2.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/dynamiclights-1.20.1.2.jar",
-        "Sha256":  "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7",
-        "Size":  49564
-    },
-    {
-        "FileName":  "FallingTree-1.20.1-4.3.4.jar",
-        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/FallingTree-1.20.1-4.3.4.jar",
-        "Sha256":  "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69",
-        "Size":  420181
+        "Sha256":  "589a9987a3a3bbe7b8787717b8ab16118344f7faae7b7c0c074c79b9611e954b",
+        "Size":  12664
     }
 ]
