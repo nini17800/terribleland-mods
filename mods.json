@@ -106,5 +106,23 @@
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/coroutil-forge-1.20.1-1.3.7.jar",
         "Sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
         "Size":  64187
+    },
+    {
+        "FileName":  "tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/tenseambience-1.18-1.20.4-FORGE-1.5.1.jar",
+        "Sha256":  "d8b7def0dd37fe30f313038df2b030168f83acf9c651e7608b389c817d3b23d5",
+        "Size":  24673837
+    },
+    {
+        "FileName":  "dynamiclights-1.20.1.2.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/dynamiclights-1.20.1.2.jar",
+        "Sha256":  "ccde9eb51e4a56016b8e0d817d4a8afdc7779f25749cc4bdb07166e296853fd7",
+        "Size":  49564
+    },
+    {
+        "FileName":  "FallingTree-1.20.1-4.3.4.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/FallingTree-1.20.1-4.3.4.jar",
+        "Sha256":  "da9d2c40e7967b1c3790e526092563d3999cc03bf1c7097285b3bedf1515db69",
+        "Size":  420181
     }
 ]
