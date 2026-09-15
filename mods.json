@@ -172,5 +172,11 @@
         "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/corpse-forge-1.20.1-1.0.23.jar",
         "Sha256":  "9f639204588512abe767bb5c2ff97d41f50352af916de939ac8029c95d57ae7b",
         "Size":  245643
+    },
+    {
+        "FileName":  "sanitydim-mc1.20-1.1.0.jar",
+        "Url":  "https://github.com/nini17800/terribleland-mods/releases/download/mods-v1/sanitydim-mc1.20-1.1.0.jar",
+        "Sha256":  "d1f58851682586dde4a533b1a200d83cdafaee833299d45d4700e47433fa103a",
+        "Size":  6052841
     }
 ]
